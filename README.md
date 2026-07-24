@@ -3,7 +3,7 @@
 <h3 align="center">Student of ADS at IFPB | Focus on Oracle APEX & PL/SQL | Java & JavaScript as secondary stack</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Oracle+APEX+%7C+PL%2FSQL+Developer;Learning+Java+%26+JavaScript;Building+projects+at+pr%C3%A1tica" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Oracle+APEX+%7C+PL%2FSQL+Developer;Learning+Java+%26+JavaScript;Building+projects" alt="Typing SVG" />
 </p>
 
 ---
