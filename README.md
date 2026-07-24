@@ -1,6 +1,6 @@
-<h1 align="center">Olá, eu sou o Adones 👋</h1>
+<h1 align="center">Wsp, i'm Adones 👋</h1>
 
-<h3 align="center">Estudante de TI no IFPB | Foco em Oracle APEX & PL/SQL | Java & JavaScript como stack secundária</h3>
+<h3 align="center">Student of ADS at IFPB | Focus on Oracle APEX & PL/SQL | Java & JavaScript as secondary stack</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Oracle+APEX+%7C+PL%2FSQL+Developer;Aprendendo+Java+%26+JavaScript;Construindo+projetos+na+pr%C3%A1tica" alt="Typing SVG" />
@@ -8,17 +8,17 @@
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About me
 
-- 🎓 Estudante no **Instituto Federal da Paraíba (IFPB)**
-- 💡 Foco principal em **Oracle APEX** e **PL/SQL**
-- 🌱 Aprendendo **Java** e **JavaScript** como stack secundária
+- 🎓 Student **Instituto Federal da Paraíba (IFPB)**
+- 💡 Main focus on: **Oracle APEX** e **PL/SQL**
+- 🌱 Learning **Java** and **JavaScript** as secondary stack
 - 📍 João Pessoa, PB
-- 🎯 Buscando oportunidades de estágio/primeiro emprego na área de desenvolvimento
+- 🎯 Searching for opportunity of internship or even Junior vacancy at developing area
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Techs & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
@@ -40,7 +40,7 @@
 
 ---
 
-### 📫 Como me encontrar
+### 📫 How 2 Find me 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/adones-neto-224064379/" target="_blank">
@@ -50,4 +50,4 @@
 
 ---
 
-<p align="center"><i>Sempre aberto a novos projetos e oportunidades em Oracle APEX, PL/SQL e desenvolvimento web 🚀</i></p>
+<p align="center"><i>Always looking for new project and opportunities at Oracle APEX, PL/SQL and web developing 🚀</i></p>
