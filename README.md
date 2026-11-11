@@ -51,14 +51,12 @@
 
 ---
 
-### 🎵 On Repeat // Spotify
+### 🖥️ Terminal // Linux & AI Runtime
 
 <div align="center">
-  <a href="https://open.spotify.com/track/7lPN2ik97hoA0vaWTV8Psk" target="_blank">
-    <img src="./assets/spotify_player.svg" alt="Spotify Player - katharsis" width="480px" />
-  </a>
+  <img src="./assets/cli_terminal.svg" alt="Terminal CLI - Linux and AI Copilot" width="100%" style="max-width: 680px;" />
   <br/>
-  <sub><i>Click to listen on Spotify</i></sub>
+  <sub><i>Driven by Arch Linux • ABZSS Platform • AI Developer Copilot</i></sub>
 </div>
 
 ---
