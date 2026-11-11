@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- Hero Anime Banner -->
-  <img src="./assets/tokyo_ghoul_banner.gif" width="100%" alt="Tokyo Ghoul Banner" />
+  <!-- Black Reaper Compact Banner -->
+  <img src="./assets/black_reaper_banner.gif" width="58%" style="border-radius: 10px; border: 1px solid #331417;" alt="Black Reaper Kaneki" />
 
   <br/><br/>
 
-  <!-- Dynamic Typing Subtitle -->
+  <!-- Dynamic Typing Subtitle (Black Reaper & Dev) -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=E50914&center=true&vCenter=true&width=650&lines=1000+-+7%3F;%2F%2F+NETRUNNER+%E2%80%A2+DATABASE+ARCHITECT;Oracle+APEX+%26+PL%2FSQL+Specialist;Walking+the+Abyss...;Wake+up%2C+we+have+code+to+deploy." alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1200&color=E50914&center=true&vCenter=true&width=650&lines=%2F%2F+KUROI+SHINIGAMI+%E2%80%A2+BLACK+REAPER;Oracle+APEX+%26+PL%2FSQL+Specialist;%22Good+night%2C+Haise.+I've+had+enough+of+dreaming.%22;Walking+the+Abyss...;Deploying+production+code." alt="Black Reaper Subtitle" />
   </p>
 
   <!-- Quick Badges -->
@@ -19,38 +19,51 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <img src="https://img.shields.io/badge/Guild-UMTI%20%2F%20PMJP-E50914?style=for-the-badge" alt="Affiliation" />
-    <img src="https://img.shields.io/badge/Rank-Junior%20Developer-00F0FF?style=for-the-badge&labelColor=0A0A0F&color=00F0FF" alt="Rank" />
+    <img src="https://img.shields.io/badge/Class-Black%20Reaper-0A0A0F?style=for-the-badge&color=000000&labelColor=E50914" alt="Black Reaper Class" />
+    <img src="https://img.shields.io/badge/Rank-Junior%20Dev-00F0FF?style=for-the-badge&labelColor=0A0A0F&color=00F0FF" alt="Rank" />
   </p>
 
 </div>
 
 ---
 
-### 🩸 Profile Overview
+### ☕ Black Reaper // Profile Overview
 
 <table>
   <tr>
-    <td width="38%" align="center" valign="middle">
-      <img src="./assets/kaneki_finger.gif" width="100%" alt="Kaneki Ken - Tokyo Ghoul" />
+    <td width="36%" align="center" valign="middle">
+      <img src="./assets/black_reaper_cold.gif" width="100%" style="border-radius: 8px;" alt="The Black Reaper - Tokyo Ghoul:re" />
       <br/>
-      <sub><i>"1000 minus 7... What is it?"</i></sub>
+      <sub><i>黒の死神 • "Good night, Haise."</i></sub>
     </td>
-    <td width="62%" valign="top">
-      <h3>ようこそ • I'm Adones Neto (adyshavefear)</h3>
+    <td width="64%" valign="top">
+      <h3>ようこそ • Adones Neto (adyshavefear)</h3>
       <p>
         Desenvolvedor focado em engenharia de dados, regras de negócio corporativas e automação de terminal.
-        Atuando nas sombras do backend desenvolvendo sistemas municipais com <b>Oracle Database & APEX</b> e criando ferramentas de linha de comando.
+        Atuando no desenvolvimento de sistemas municipais com <b>Oracle Database & APEX</b> e na criação de ferramentas de linha de comando.
       </p>
       <ul>
         <li>🏢 <b>Atuação:</b> Desenvolvedor Júnior (PL/SQL & Oracle APEX) na <b>UMTI / PMJP</b></li>
         <li>🎓 <b>Formação:</b> Análise e Desenvolvimento de Sistemas — <b>IFPB</b></li>
         <li>🌌 <b>Criador do:</b> <a href="https://github.com/adyshavefear/abzss"><b>ABZSS (Abyss System)</b></a> — Modular CLI Platform</li>
         <li>📍 <b>Localização:</b> João Pessoa, PB — Brasil</li>
-        <li>⚔️ <b>Vibe & Referências:</b> Tokyo Ghoul • Cyberpunk: Edgerunners • Dark Souls (Abysswalker)</li>
+        <li>☕ <b>Vibe:</b> Tokyo Ghoul:re (Black Reaper) • Dark Souls (Abysswalker)</li>
       </ul>
     </td>
   </tr>
 </table>
+
+---
+
+### 🎵 On Repeat // Spotify
+
+<div align="center">
+  <a href="https://open.spotify.com/track/7lPN2ik97hoA0vaWTV8Psk" target="_blank">
+    <img src="./assets/spotify_player.svg" alt="Spotify Player - katharsis" width="480px" />
+  </a>
+  <br/>
+  <sub><i>Clique no player para ouvir no Spotify</i></sub>
+</div>
 
 ---
 
@@ -76,7 +89,7 @@
 
 <br/>
 
-#### 🗡️ Cyberdeck & Development Environment
+#### 🗡️ Environment & Tools
 <img src="https://img.shields.io/badge/Linux%20(Bash)-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/ClickUp%20(Scrum)-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
@@ -105,12 +118,8 @@
 ---
 
 <div align="center">
-
-  <img src="./assets/edgerunners_rocket.gif" width="70%" alt="Watching the Rocket - Cyberpunk Edgerunners" />
-
   <p>
-    <i>"Wake up, Netrunner. Fear not the dark... in the depths of the Abyss, we forge the code."</i>
+    <i>"Why should I apologize for being a monster? Has anyone ever apologized for turning me into one?"</i>
   </p>
-  <sub>🩸 Tokyo Ghoul • 🌌 Dark Souls • ⚡ Cyberpunk: Edgerunners</sub>
-
+  <sub>黒の死神 (The Black Reaper) • Tokyo Ghoul:re</sub>
 </div>
