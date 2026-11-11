@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- Black Reaper Compact Banner -->
-  <img src="./assets/black_reaper_banner.gif" width="58%" style="border-radius: 10px; border: 1px solid #331417;" alt="Black Reaper Kaneki" />
+  <img src="./assets/black_reaper_banner.gif" width="55%" style="border-radius: 10px; border: 1px solid #331417;" alt="Black Reaper Kaneki" />
 
   <br/><br/>
 
-  <!-- Dynamic Typing Subtitle (Black Reaper & Dev) -->
+  <!-- Dynamic Typing Subtitle (English) -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1200&color=E50914&center=true&vCenter=true&width=650&lines=%2F%2F+KUROI+SHINIGAMI+%E2%80%A2+BLACK+REAPER;Oracle+APEX+%26+PL%2FSQL+Specialist;%22Good+night%2C+Haise.+I've+had+enough+of+dreaming.%22;Walking+the+Abyss...;Deploying+production+code." alt="Black Reaper Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1200&color=E50914&center=true&vCenter=true&width=650&lines=%2F%2F+THE+BLACK+REAPER+%E2%80%A2+DATABASE+ENGINEER;Oracle+APEX+%26+PL%2FSQL+Specialist;Architecting+enterprise+systems;Walking+the+Abyss...;Building+developer+tools." alt="Typing Subtitle" />
   </p>
 
   <!-- Quick Badges -->
@@ -16,38 +16,34 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:adones.wrkneto@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://img.shields.io/badge/Guild-UMTI%20%2F%20PMJP-E50914?style=for-the-badge" alt="Affiliation" />
-    <img src="https://img.shields.io/badge/Class-Black%20Reaper-0A0A0F?style=for-the-badge&color=000000&labelColor=E50914" alt="Black Reaper Class" />
-    <img src="https://img.shields.io/badge/Rank-Junior%20Dev-00F0FF?style=for-the-badge&labelColor=0A0A0F&color=00F0FF" alt="Rank" />
+    <img src="https://img.shields.io/badge/Organization-UMTI%20%2F%20PMJP-E50914?style=for-the-badge" alt="Affiliation" />
+    <img src="https://img.shields.io/badge/Role-Junior%20Developer-00F0FF?style=for-the-badge&labelColor=0A0A0F&color=00F0FF" alt="Role" />
   </p>
 
 </div>
 
 ---
 
-### ☕ Black Reaper // Profile Overview
+### ☕ Profile Overview
 
 <table>
   <tr>
     <td width="36%" align="center" valign="middle">
-      <img src="./assets/black_reaper_cold.gif" width="100%" style="border-radius: 8px;" alt="The Black Reaper - Tokyo Ghoul:re" />
-      <br/>
-      <sub><i>黒の死神 • "Good night, Haise."</i></sub>
+      <img src="./assets/black_reaper_cold.gif" width="100%" style="border-radius: 8px;" alt="The Black Reaper" />
     </td>
     <td width="64%" valign="top">
-      <h3>ようこそ • Adones Neto (adyshavefear)</h3>
+      <h3>Hi, I'm Adones Neto (adyshavefear) 👋</h3>
       <p>
-        Desenvolvedor focado em engenharia de dados, regras de negócio corporativas e automação de terminal.
-        Atuando no desenvolvimento de sistemas municipais com <b>Oracle Database & APEX</b> e na criação de ferramentas de linha de comando.
+        Software developer focused on enterprise database engineering, core business logic, and terminal automation.
+        Currently building municipal production systems using <b>Oracle Database & APEX</b> and crafting command-line developer tools.
       </p>
       <ul>
-        <li>🏢 <b>Atuação:</b> Desenvolvedor Júnior (PL/SQL & Oracle APEX) na <b>UMTI / PMJP</b></li>
-        <li>🎓 <b>Formação:</b> Análise e Desenvolvimento de Sistemas — <b>IFPB</b></li>
-        <li>🌌 <b>Criador do:</b> <a href="https://github.com/adyshavefear/abzss"><b>ABZSS (Abyss System)</b></a> — Modular CLI Platform</li>
-        <li>📍 <b>Localização:</b> João Pessoa, PB — Brasil</li>
-        <li>☕ <b>Vibe:</b> Tokyo Ghoul:re (Black Reaper) • Dark Souls (Abysswalker)</li>
+        <li>💼 <b>Current Role:</b> Junior Developer (PL/SQL & Oracle APEX) at <b>UMTI / PMJP</b></li>
+        <li>🎓 <b>Education:</b> Systems Analysis & Development — <b>IFPB</b></li>
+        <li>🌌 <b>Creator of:</b> <a href="https://github.com/adyshavefear/abzss"><b>ABZSS (Abyss System)</b></a> — Modular CLI Platform</li>
+        <li>📍 <b>Location:</b> João Pessoa, PB — Brazil</li>
       </ul>
     </td>
   </tr>
@@ -62,12 +58,12 @@
     <img src="./assets/spotify_player.svg" alt="Spotify Player - katharsis" width="480px" />
   </a>
   <br/>
-  <sub><i>Clique no player para ouvir no Spotify</i></sub>
+  <sub><i>Click to listen on Spotify</i></sub>
 </div>
 
 ---
 
-### 🛠️ Tech Arsenal // Stacks & Kagune
+### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
@@ -75,7 +71,7 @@
 <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle%20PL%2FSQL-336791?style=for-the-badge&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL%20DDL%20%2F%20DML-005C8A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Modeling%20(DER%2FMER)-1E2229?style=for-the-badge&color=E50914" />
+<img src="https://img.shields.io/badge/Data%20Modeling%20(ERD)-1E2229?style=for-the-badge&color=E50914" />
 <img src="https://img.shields.io/badge/H2%20Database-003545?style=for-the-badge&logoColor=white" />
 
 <br/>
@@ -99,13 +95,13 @@
 
 ---
 
-### 🚀 Featured Deployments
+### 🚀 Featured Projects
 
-| Projeto | Tecnologias | Descrição |
+| Project | Stack | Description |
 | :--- | :--- | :--- |
-| 🏛️ **[oracle-plsql-toolkit](https://github.com/adyshavefear/oracle-plsql-toolkit)** | `PL/SQL` `Oracle APEX` `SQL` | Padrões corporativos: consumo de API REST via `APEX_WEB_SERVICE`, packages modulares, triggers de auditoria e SQL analítico. |
-| 🌌 **[ABZSS (Abyss System)](https://github.com/adyshavefear/abzss)** | `TypeScript` `Node.js` `CLI` | Plataforma modular de automação para desenvolvedores que transforma o terminal na sua central de comando. |
-| 🎭 **[gerenciamento-teatro](https://github.com/adyshavefear/gerenciamento-teatro)** | `Java` `Swing` `JPA/Hibernate` | Sistema comercial de gestão em camadas (DAO), persistência relacional com H2 e emissão de relatórios financeiros em PDF. |
+| 🏛️ **[oracle-plsql-toolkit](https://github.com/adyshavefear/oracle-plsql-toolkit)** | `PL/SQL` `Oracle APEX` `SQL` | Enterprise patterns: REST API consumption via `APEX_WEB_SERVICE`, modular packages, autonomous audit triggers, and analytical SQL. |
+| 🌌 **[ABZSS (Abyss System)](https://github.com/adyshavefear/abzss)** | `TypeScript` `Node.js` `CLI` | Modular developer automation platform turning your terminal into a command deck. |
+| 🎭 **[gerenciamento-teatro](https://github.com/adyshavefear/gerenciamento-teatro)** | `Java` `Swing` `JPA/Hibernate` | Desktop commercial management application with layered architecture (DAO), JPA/Hibernate persistence, and PDF reports. |
 
 ---
 
@@ -119,7 +115,7 @@
 
 <div align="center">
   <p>
-    <i>"Why should I apologize for being a monster? Has anyone ever apologized for turning me into one?"</i>
+    <i>"Good night, Haise. I've had enough of dreaming."</i>
   </p>
-  <sub>黒の死神 (The Black Reaper) • Tokyo Ghoul:re</sub>
+  <sub>黒の死神 • Tokyo Ghoul:re</sub>
 </div>
