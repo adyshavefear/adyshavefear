@@ -100,6 +100,7 @@
 | 🏛️ **[oracle-plsql-toolkit](https://github.com/adyshavefear/oracle-plsql-toolkit)** | `PL/SQL` `Oracle APEX` `SQL` | Enterprise patterns: REST API consumption via `APEX_WEB_SERVICE`, modular packages, autonomous audit triggers, and analytical SQL. |
 | 🌌 **[ABZSS (Abyss System)](https://github.com/adyshavefear/abzss)** | `TypeScript` `Node.js` `CLI` | Modular developer automation platform turning your terminal into a command deck. |
 | 🎭 **[gerenciamento-teatro](https://github.com/adyshavefear/gerenciamento-teatro)** | `Java` `Swing` `JPA/Hibernate` | Desktop commercial management application with layered architecture (DAO), JPA/Hibernate persistence, and PDF reports. |
+| 📚 **[BetterTeaching](https://github.com/adyshavefear/BetterTeaching)** | `Python` `Gemini` `Playwright` | Work-in-progress assistant for extracting grades from images and filling school portal fields after human review. |
 
 ---
 
